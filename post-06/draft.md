@@ -59,7 +59,7 @@ Combined: a visual system where depth and atmosphere are present everywhere but 
 The core palette is two primaries in tension:
 
 ```
-Teal:   #14B8A6  (interactive primary, CTAs, links)
+Teal:   #2DD4A8  (interactive primary, CTAs, links)
 Indigo: #6366F1  (ambient, decorative, mood layer)
 ```
 
@@ -68,11 +68,11 @@ These aren't neutral. Teal reads as active — it's a call to action colour, for
 **Extended palette:**
 
 ```
-Background:    #0D1117  (near-black with slight blue-grey warmth)
+Background:    #0D0F17  (near-black with slight blue-grey warmth)
 Surface:       #161B22  (card and panel surfaces)
 Border:        #21262D  (subtle boundary between surfaces)
 Text primary:  #F0F6FC  (high contrast, warm white)
-Text muted:    #8B949E  (supporting text, metadata)
+Text muted:    #8A9BB0  (supporting text, metadata — WCAG AA)
 ```
 
 The trick with the background is the blue-grey warmth. Pure black (`#000000`) is cold — it reads as absence. The Srinibytes background is dark but not void. There's a colour there, even if it takes a moment to register.
